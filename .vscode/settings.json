@@ -1,0 +1,6 @@
+{
+    "editor.hover.delay": 300,
+    "workbench.hover.delay": 300,
+    "workbench.sash.hoverDelay": 300,
+    "workbench.hover.reducedDelay": 300
+}

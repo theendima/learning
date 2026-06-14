@@ -28,9 +28,8 @@
 # print(f"Количестве букавок в слопе Python: {count}")
 
 #5
-total = 1
 for i in range (1,11):
-    print(f" 5 * {i} = {5 *1}")
+    print(f" 5 * {i} = {5 * 1}")
 
 '''Цикл for
 
